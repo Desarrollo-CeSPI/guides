@@ -6,33 +6,51 @@ Será explicado con *EDD* (Example Driven Development):
 class ArticleController < ApplicationController
   before_filter :authenticate_user!
   before_filter :find_something!
+  respond_to :html, :json
 
   def index
     # ...
+    respond_with @articles
   end
 
   def show
     # ...
+    respond_with @article
   end
 
   def new
     # ...
+    respond_with @article
   end
 
   def edit
     # ...
+    respond_with @article
   end
 
   def create
     # ...
+    respond_with @article
   end
 
   def update
     # ...
+    respond_with @article
   end
 
   def destroy
     # ...
+    respond_with @article
+  end
+
+  def a_new_action
+    # ...
+    respond_with @article
+  end
+
+  def another_action
+    # ...
+    respond_with @article
   end
 
   private
@@ -51,8 +69,10 @@ La forma de organizar el código en las clases es la siguiente:
   * Los filtros deben ser métodos privados (`private`) (ver al final de la
     clase)
   * Usar `only` y `except` en el caso que corresponda
+* Los [responders](http://blog.plataformatec.com.br/2009/08/embracing-rest-with-mind-body-and-soul/)
+  van luego de los filtros (por el **orden alfabético**). Más sobre [responders](https://github.com/rails/rails/blob/master/actionpack/lib/action_controller/metal/mime_responds.rb)
 * Las acciones por defecto deben seguir el orden que impone el `scaffold
   generator` y es el detallado en el ejemplo
-* Las acciones definidas por el usuarios deben ir en *orden alfabético* luego
-  de `destroy`
+* Las acciones definidas por el usuarios deben ir en **orden alfabético**
+  luego de `destroy`
 
