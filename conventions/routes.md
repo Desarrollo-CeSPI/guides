@@ -13,6 +13,8 @@ SomeApplication::Application.routes.draw do
       put :publish
       put :unpublish
     end
+
+    resources :comments
   end
 
   resource :profile, only: [:edit, :update]
@@ -26,6 +28,7 @@ La forma de organizar el código en las clases es la siguiente:
 * Definir rutas para `collection` y `member` también en orden **alfabético**:
   * Primero `collection`
   * Luego `member`
+  * Luego `resources` (en **orden alfabético**)
   * Los métodos `get`, `post`, etc., también en **orden alfabético**
 * Usar los **verbos http** de forma consciente, es decir, usarlos según [REST](http://es.wikipedia.org/wiki/Representational_State_Transfer)
 * Para recursos únicos (en el ejemplo, `profile` es un recurso único), usar
