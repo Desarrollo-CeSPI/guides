@@ -73,8 +73,8 @@ La forma de organizar el código en las clases es la siguiente:
 
 * No usar métodos protegidos (Ver [Protect your privates](http://robots.thoughtbot.com/post/31794893208/protect-your-privates))
 * No definir, por nada del mundo:
-  ** Métodos que devuelvan **HTML**
-  ** Métodos que hagan uso de `I18n.t` (o sea, no usar `I18n.t` en el modelo)
+  * Métodos que devuelvan **HTML**
+  * Métodos que hagan uso de `I18n.t` (o sea, no usar `I18n.t` en el modelo)
 * Si la clase tiene muchos `callbacks` o algún `callback` es demasiado largo,
   usar **observers**
 
