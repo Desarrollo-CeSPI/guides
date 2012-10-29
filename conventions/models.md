@@ -52,24 +52,29 @@ La forma de organizar el código en las clases es la siguiente:
 * La inclusión (`include`) y extensión (`extend`) de módulos se declara al
   comienzo
 * Luego lo sigue una sección donde se usan las sentencias relativas a los
-  atributos (`attributes`)
+  **atributos** (`attributes`)
   * Notar que tanto las sentencias (`attr_accesible`, `attr_reader` y
     `attr_writer` en este caso) como los simbolos que representan a los
-    atributos (`:content`, `:title`, etc.) se escriben *alfabeticamente*
-* Luego se especifican los `callbacks`, tambien en *orden alfabético*
+    atributos (`:content`, `:title`, etc.) se escriben en **orden alfabético**
+* Luego se especifican los `callbacks`, también en **orden alfabético**
 * Le siguen los `scopes`
-* Luego las `validations`
+* Luego las `validations`:
+  ** Notar que los hashes que se pasan como argumento al validator también
+     está en **orden alfabético**
 * Por último los métodos:
-  * Primero los métodos de *clase*, siempre en *orden alfabético*
-  * Luego los métodos de *instancia*, siempre en *orden alfabético*
-  * Los métodos protegidos (`protected`) van después, siempre en *orden
-    alfabético*
-  * Y por último los métodos privados (`private`), siempre en *orden
-    alfabético*
+  * Primero los métodos de **clase**, siempre en **orden alfabético**
+  * Luego los métodos de **instancia**, siempre en **orden alfabético**
+  * Los métodos protegidos (`protected`) van después, siempre en **orden
+    alfabético**
+  * Y por último los métodos privados (`private`), siempre en **orden
+    alfabético**
 
 ## Recomendaciones
 
 * No usar métodos protegidos (Ver [Protect your privates](http://robots.thoughtbot.com/post/31794893208/protect-your-privates))
+* No definir, por nada del mundo:
+  ** Métodos que devuelvan **HTML**
+  ** Métodos que hagan uso de `I18n.t` (o sea, no usar `I18n.t` en el modelo)
 * Si la clase tiene muchos `callbacks` o algún `callback` es demasiado largo,
-  usar *observers*
+  usar **observers**
 
