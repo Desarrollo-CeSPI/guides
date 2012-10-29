@@ -2,7 +2,7 @@
 
 Será explicado con *EDD* (Example Driven Development):
 
-```
+```ruby
 class Article < ActiveRecord::Base
   include SomeModule
 
@@ -53,19 +53,19 @@ La forma de organizar el código en las clases es la siguiente:
   comienzo
 * Luego lo sigue una sección donde se usan las sentencias relativas a los
   atributos (`attributes`)
-** Notar que tanto las sentencias (`attr_accesible`, `attr_reader` y
-   `attr_writer` en este caso) como los simbolos que representan a los
-   atributos (`:content`, `:title`, etc.) se escriben *alfabeticamente*
+  * Notar que tanto las sentencias (`attr_accesible`, `attr_reader` y
+    `attr_writer` en este caso) como los simbolos que representan a los
+    atributos (`:content`, `:title`, etc.) se escriben *alfabeticamente*
 * Luego se especifican los `callbacks`, tambien en *orden alfabético*
 * Le siguen los `scopes`
 * Luego las `validations`
 * Por último los métodos:
-** Primero los métodos de *clase*, siempre en *orden alfabético*
-** Luego los métodos de *instancia*, siempre en *orden alfabético*
-** Los métodos protegidos (`protected`) van después, siempre en *orden
-   alfabético*
-** Y por último los métodos privados (`private`), siempre en *orden
-   alfabético*
+  * Primero los métodos de *clase*, siempre en *orden alfabético*
+  * Luego los métodos de *instancia*, siempre en *orden alfabético*
+  * Los métodos protegidos (`protected`) van después, siempre en *orden
+    alfabético*
+  * Y por último los métodos privados (`private`), siempre en *orden
+    alfabético*
 
 ## Recomendaciones
 
