@@ -58,6 +58,11 @@ categorías. También documentos y/u otros recursos.
 * [ransack](https://github.com/ernie/ransack)
 * [scoped_search](https://github.com/wvanbergen/scoped_search)
 
+## Stylesheets
+
+* [foundation](https://github.com/zurb/foundation)
+* [twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails)
+
 ## Testing
 
 * [factory_girl](https://github.com/thoughtbot/factory_girl)
