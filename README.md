@@ -6,7 +6,7 @@ Guías de Desarrollo - [CeSPI](http://www.cespi.unlp.edu.ar):
 
 * [styleguide](https://github.com/styleguide): Guía de estilo que **todos** debemos seguir
 
-### Convenciones
+### Conventions
 
 * [controllers](https://github.com/Desarrollo-CeSPI/guides/blob/master/conventions/controllers.md)
 * [gems](https://github.com/Desarrollo-CeSPI/guides/blob/master/conventions/gems.md)
@@ -22,4 +22,8 @@ Guías de Desarrollo - [CeSPI](http://www.cespi.unlp.edu.ar):
 * [Thoughtbot Learn](https://learn.thoughtbot.com/)
 * [The Pug Automatic](http://henrik.nyh.se/)
 * [Nick Sutterer's blog](http://nicksda.apotomo.de/)
+
+## Articles
+
+* [Minimalicious testing in Ruby 1.9 with MiniTest](http://blog.arvidandersson.se/2012/03/28/minimalicous-testing-in-ruby-1-9)
 
