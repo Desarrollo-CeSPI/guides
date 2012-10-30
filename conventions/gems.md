@@ -6,6 +6,7 @@ categorías. También documentos y/u otros recursos.
 ## APIs
 
 * [grape](https://github.com/intridea/grape)
+* [rails-api](https://github.com/spastorino/rails-api)
 
 ## Autenticación
 
