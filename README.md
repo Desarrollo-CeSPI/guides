@@ -22,6 +22,7 @@ Guías de Desarrollo - [CeSPI](http://www.cespi.unlp.edu.ar):
 * [Thoughtbot Learn](https://learn.thoughtbot.com/)
 * [The Pug Automatic](http://henrik.nyh.se/)
 * [Nick Sutterer's blog](http://nicksda.apotomo.de/)
+* [EnvyLabs blog](http://blog.envylabs.com/)
 
 ## Articles
 
