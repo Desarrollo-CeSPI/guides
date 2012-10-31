@@ -8,6 +8,14 @@ categorías. También documentos y/u otros recursos.
 * [grape](https://github.com/intridea/grape)
 * [rails-api](https://github.com/spastorino/rails-api)
 
+## Application configuration
+
+* [rails_config](https://github.com/railsjedi/rails_config)
+
+## Audit/Objects versioning
+
+* [paper_trail](https://github.com/airblade/paper_trail)
+
 ## Authentication
 
 * [devise](https://github.com/plataformatec/devise)
@@ -25,6 +33,10 @@ categorías. También documentos y/u otros recursos.
 * [phusion passenger](https://www.phusionpassenger.com/)
 * [unicorn](http://unicorn.bogomips.org/)
 
+## Enumerated attributes (states or types)
+
+* [enumerize](https://github.com/brainspec/enumerize)
+
 ## File uploads
 
 * [carrierwave](https://github.com/jnicklas/carrierwave)
@@ -34,6 +46,14 @@ categorías. También documentos y/u otros recursos.
 * [Nested Model Form](http://railscasts.com/episodes/196-nested-model-form-revised)
 * [simple_form](https://github.com/plataformatec/simple_form)
 * [Token Fields](http://railscasts.com/episodes/258-token-fields-revised)
+
+## Generators
+
+* [nice_generators](https://github.com/patriciomacadden/nice_generators)
+
+## I18n
+
+* [rails-i18n](https://github.com/svenfuchs/rails-i18n)
 
 ## JRuby
 
@@ -53,6 +73,14 @@ categorías. También documentos y/u otros recursos.
 * [bullet](https://github.com/flyerhzm/bullet)
 * [rails-footnotes](https://github.com/josevalim/rails-footnotes)
 
+## Permalinks
+
+* [friendly_id](https://github.com/norman/friendly_id)
+
+## Rich text editors
+
+* [redactor-rails](https://github.com/SammyLin/redactor-rails) (Ver [redactorjs](http://imperavi.com/redactor/))
+
 ## Search
 
 * [ransack](https://github.com/ernie/ransack)
@@ -69,3 +97,12 @@ categorías. También documentos y/u otros recursos.
 * [factory_girl_rails](https://github.com/thoughtbot/factory_girl_rails)
 * [minitest](https://github.com/seattlerb/minitest)
 
+## User agent detection
+
+* [user_agent](https://github.com/josh/useragent)
+* [mobylette](https://github.com/tscolari/mobylette) (No funciona bien con jruby)
+
+## Workflow
+
+* [micromachine](https://github.com/soveran/micromachine)
+* [workflow](https://github.com/geekq/workflow)
