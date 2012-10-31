@@ -23,6 +23,7 @@ Guías de Desarrollo - [CeSPI](http://www.cespi.unlp.edu.ar):
 * [The Pug Automatic](http://henrik.nyh.se/)
 * [Nick Sutterer's blog](http://nicksda.apotomo.de/)
 * [EnvyLabs blog](http://blog.envylabs.com/)
+* [Plataformatec blog](http://blog.plataformatec.com.br/)
 
 ## Articles
 
