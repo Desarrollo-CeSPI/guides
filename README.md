@@ -28,6 +28,7 @@ Guías de Desarrollo - [CeSPI](http://www.cespi.unlp.edu.ar):
 ## Articles
 
 * [Minimalicious testing in Ruby 1.9 with MiniTest](http://blog.arvidandersson.se/2012/03/28/minimalicous-testing-in-ruby-1-9)
+* [xUnit Patterns](http://xunitpatterns.com/)
 
 ## Books
 
