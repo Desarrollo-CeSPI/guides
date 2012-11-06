@@ -28,7 +28,8 @@ Guías de Desarrollo - [CeSPI](http://www.cespi.unlp.edu.ar):
 ## Articles
 
 * [Minimalicious testing in Ruby 1.9 with MiniTest](http://blog.arvidandersson.se/2012/03/28/minimalicous-testing-in-ruby-1-9)
-* [xUnit Patterns](http://xunitpatterns.com/)
+* [xUnit Patterns](http://xunitpatterns.com/) ( sobre todo la parte de [Test Smells](http://xunitpatterns.com/Test%20Smells.html) )
+* [REST wiki](http://restpatterns.org) ( explicaciones breves de cada uno de los codigos de respuesta http y de varios verbos rest )
 
 ## Books
 
