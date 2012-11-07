@@ -68,10 +68,10 @@ categorías. También documentos y/u otros recursos.
 * [PDFKit](https://github.com/pdfkit/pdfkit)
 * [Prawn](https://github.com/prawnpdf/prawn)
 
-## Performance / development
+## Profiling
 
 * [bullet](https://github.com/flyerhzm/bullet)
-* [rails-footnotes](https://github.com/josevalim/rails-footnotes)
+* [rack-mini-profiler](https://github.com/SamSaffron/MiniProfiler/tree/master/Ruby)
 
 ## Permalinks
 
