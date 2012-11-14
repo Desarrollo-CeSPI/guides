@@ -25,6 +25,7 @@ Guías de Desarrollo - [CeSPI](http://www.cespi.unlp.edu.ar):
 * [EnvyLabs blog](http://blog.envylabs.com/)
 * [Plataformatec blog](http://blog.plataformatec.com.br/)
 * [JEG2](http://blog.grayproductions.net/)
+* [WyeWorks' Blog](http://blog.wyeworks.com/)
 
 ## Articles
 
