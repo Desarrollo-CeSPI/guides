@@ -14,6 +14,10 @@ Guías de Desarrollo - [CeSPI](http://www.cespi.unlp.edu.ar):
 * [models](https://github.com/Desarrollo-CeSPI/guides/blob/master/conventions/models.md)
 * [routes](https://github.com/Desarrollo-CeSPI/guides/blob/master/conventions/routes.md)
 
+## Our Blog
+
+* [Desarrollo-CeSPI](http://desarrollo-cespi.github.com/)
+
 ## Learning
 
 * [Railscasts](http://railscasts.com/)
