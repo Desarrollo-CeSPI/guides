@@ -31,6 +31,7 @@ Guías de Desarrollo - [CeSPI](http://www.cespi.unlp.edu.ar):
 * [JEG2](http://blog.grayproductions.net/)
 * [WyeWorks' Blog](http://blog.wyeworks.com/)
 * [Code Climate Blog](http://blog.codeclimate.com/)
+* [Ernie Miller](http://erniemiller.org/)
 
 ## Articles
 
