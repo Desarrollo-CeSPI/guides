@@ -80,6 +80,7 @@ categorías. También documentos y/u otros recursos.
 ## Rich text editors
 
 * [redactor-rails](https://github.com/SammyLin/redactor-rails) (Ver [redactorjs](http://imperavi.com/redactor/))
+  - OJO QUE [LA LICENCIA ES PAGA](http://imperavi.com/redactor/download/) Y [NO ES COMPATIBLE CON OPEN SOURCE SOFTWARE](http://imperavi.com/redactor/faq/#ql4).
 
 ## Search
 
