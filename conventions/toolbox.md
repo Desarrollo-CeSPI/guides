@@ -19,7 +19,7 @@ You **should** use [miniconfig](https://github.com/patriciomacadden/miniconfig) 
 
 ### Database
 
-You *must* use [activerecord](https://github.com/rails/rails/tree/master/activerecord).
+You **must** use [activerecord](https://github.com/rails/rails/tree/master/activerecord).
 
 ### I18n
 
