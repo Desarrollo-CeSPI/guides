@@ -33,6 +33,8 @@ You **should** use [rack-mini-profiler](https://github.com/SamSaffron/MiniProfil
 
 You **must** use [Sinatra](https://github.com/sinatra/sinatra) 
 
+You **must** follow [API Standard Guide](https://github.com/ncuesta/api-doc)
+
 ## Small apps
 
 You **must** use [Sinatra](https://github.com/sinatra/sinatra) 
