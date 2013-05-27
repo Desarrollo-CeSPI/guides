@@ -31,13 +31,11 @@ You **should** use [rack-mini-profiler](https://github.com/SamSaffron/MiniProfil
 
 ## API
 
-You **must** use [Sinatra](https://github.com/sinatra/sinatra) **OR**
-[hobbit](https://github.com/patriciomacadden/hobbit).
+You **must** use [Sinatra](https://github.com/sinatra/sinatra) 
 
 ## Small apps
 
-You **must** use [Sinatra](https://github.com/sinatra/sinatra) **OR**
-[hobbit](https://github.com/patriciomacadden/hobbit).
+You **must** use [Sinatra](https://github.com/sinatra/sinatra) 
 
 ## Rails specific
 
